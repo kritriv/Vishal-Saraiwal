@@ -13,7 +13,7 @@
 
 #
 
-[![Vishal Saraiwal's github stats](https://github-readme-stats.vercel.app/api?username=kritriv&count_private=true&hide=prs,issues&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kritriv/github-readme-stats)
+[![Vishal Saraiwal's github stats](https://github-readme-stats.vercel.app/api?username=kritriv&count_private=true&hide=prs,issues&show_icons=true&title_color=90EE90&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kritriv/github-readme-stats)
 <a href="https://github.com/kritriv?tab=repositories">
   <img align="right" width="310px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kritriv&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
 </a>
