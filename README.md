@@ -29,7 +29,8 @@
     <a href="https://github.com/kritriv" alt="Github"><img src="Logos/github.png" ></a>
     <a href="https://www.behance.net/vishalsaraiwal" alt="Behance"><img src="Logos/behance.png"></a>
     <a href="https://dribbble.com/vishhsaraiwal" alt="Dribbble"><img src="Logos/dribbble.png"></a>
-    <a href="https://www.instagram.com/vishal_saraiwal/" alt="Instagram"><img src="Logos/instagram.png"></a>
+    <a href="https://www.instagram.com/vishal_saraiwal/" alt="Instagram"><img src="Logos/insta.png"></a>
+    <a href="[https://www.instagram.com/vishal_saraiwal/](https://wa.me/919193378532?              text=Hello%20Vishal%20Saraiwal%2C%20I%20am%20reach%20at%20you%20from%20Github%20Links)" alt="Whats App"><img src="Logos/whatsapp.png"></a>
   </p>
   
   <p align="center">
